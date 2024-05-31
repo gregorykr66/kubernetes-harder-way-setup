@@ -1,0 +1,1 @@
+# kubernetes-harder-way-setup
